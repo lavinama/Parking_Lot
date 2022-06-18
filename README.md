@@ -59,7 +59,8 @@ Here are the main classes of our Parking Lot System:
 </p>
 
 ### Activity Diagrams
-Customer paying for parking ticket: Any customer can perform this activity. Here are the set of steps:
+Customer paying for parking ticket: 
+Any customer can perform this activity. Here are the set of steps:
 
 <p align="center">
   <img src="images/activity_diagrams.png" width="350" title="Activity diagrams">
